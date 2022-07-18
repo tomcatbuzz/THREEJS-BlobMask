@@ -1,0 +1,1 @@
+{"version":3,"sources":["css/app.css"],"names":[],"mappings":"AAAA;AACA;AACA","file":"app.ed7d1cf1.css","sourceRoot":"..","sourcesContent":["*{margin:0;padding:0} \r\ncanvas{display: block}\r\n#container{width: 100vw;height: 100vh}"]}
